@@ -1,1 +1,1 @@
-export const demoQuantity: number = 'one';
+export const demoQuantity: number = 1;
